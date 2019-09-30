@@ -8,7 +8,7 @@
 
 ## *Writer* | Penulis
 
-- Erlangga Ibrahim - 672017282
+- Erlangga Ibrahim - @wowotek - 672017282
 
 ## *Questions* | Pertanyaan
 
